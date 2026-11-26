@@ -16,6 +16,11 @@ Bu alıştırmalar [BayiAI projesiyle](https://github.com/aydnomer/BayiAI) aynı
 | [`hafta-calismalari/04_veri_degistirme_altsorgu.sql`](hafta-calismalari/04_veri_degistirme_altsorgu.sql) | INSERT, UPDATE, DELETE, OUTPUT, alt sorgu, EXISTS, CTE |
 | [`hafta-calismalari/05_view_transaction_procedure.sql`](hafta-calismalari/05_view_transaction_procedure.sql) | Pencere fonksiyonları, VIEW, transaction + TRY/CATCH, stored procedure |
 
+## Gereksinimler
+
+- SQL Server 2016 veya üzeri (ücretsiz Express ya da Developer sürümü yeterli)
+- SQL Server Management Studio (SSMS) ya da Azure Data Studio
+
 ## Nasıl çalıştırılır
 
 1. [BayiAI](https://github.com/aydnomer/BayiAI) reposundaki `database/01_tablolar.sql` ve `database/02_ornek_veri.sql` dosyalarını SQL Server'da çalıştır.
